@@ -6,3 +6,4 @@ Combining threat analysis expertise with Python, ML pipelines, RAG, and AI agent
 ## Current Projects
 - Phishing Scanner v0.1 – Basic pattern-based email threat detection  
 - Phishing Scanner v0.2 – Batch processing with summary reporting
+- Threat Intelligence Parser – Fast IOC detection using sets and dictionaries
